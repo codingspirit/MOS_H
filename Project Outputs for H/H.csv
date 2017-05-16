@@ -1,0 +1,16 @@
+Comment,Description,Designator,Footprint,LibRef,Quantity,Value
+
+"Motor","Motor, General Kind","B1, B2","5_08","Motor","2",""
+"Cap Pol1","Polarized Capacitor (Radial)","C0","C-RB-SD10","Cap Pol1","1","470uF"
+"Cap","Capacitor (Semiconductor SIM Model)","C1, C2, C3, C4, C5, C6, C7, C8, C9, C10, C11, C12, C13, C14, C15, C16, C17","C-0603","Cap Semi","17","0.1uF, 10uF, 0.1uF, 10uF, 0.1uF, 10uF, 0.1uF, 10uF, 0.1uF, 10uF, 1.5uF, 1.5uF, 1.5uF, 10uF, 1.5uF, 10uF, 10uF"
+"Diode","Default Diode","D0","SMA","Diode","1",""
+"LED3","Typical BLUE SiC LED","D2","DSO-C2/D5.6","LED3","1",""
+"IN5819","Schottky Diode","D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14","SMB-D","D Schottky","12",""
+"IR2104","","HBD1, HBD2, HBD3, HBD4","IR2104","IR2104","4",""
+"PWRCON","直流电源端子","J1","DC-005","PWRCON","1",""
+"LM1117","","LM1117-3.3, LM1117-5","lm1117","LM1117","2",""
+"LR7843","","NMOS1, NMOS2, NMOS3, NMOS4, NMOS5, NMOS6, NMOS7, NMOS8","IR7843","IR7843","8",""
+"Header 4","Header, 4-Pin","P2","HDR1X4","Header 4","1",""
+"Res2","Resistor","R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13","0603-1","Res2","13","1K, 20, 20, 20, 20, 20, 20, 20, 20, 10k, 10k, 10k, 10k"
+"SW SPDT","","S1","SW3P","SW SPDT","1",""
+"74lvc245","","U1","TSSOP-20","74lvc245","1",""
